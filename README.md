@@ -9,7 +9,7 @@ You can run application by jupyterlab by following step
 1. build dockerfile
 2. run docker
 3. copy link address to your browser
-4. run notebook tts_botnoi
+4. run notebook tts_botnoi.ipynb
 
 **docker build:** 
 sudo docker build --rm -t tts .
